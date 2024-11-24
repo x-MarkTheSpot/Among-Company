@@ -6,7 +6,6 @@ const quotes = [
     "Don’t watch the clock; do what it does. Keep going.",
     "The future belongs to those who believe in the beauty of their dreams.",
     "What lies behind us and what lies before us are tiny matters compared to what lies within us. - Ralph Waldo",
-    "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. - Albert Schweitzer",
     "You don’t have to be great to start, but you have to start to be great. - Zig Ziglar",
     "In the middle of difficulty lies opportunity. - Albert Einstein"
 
